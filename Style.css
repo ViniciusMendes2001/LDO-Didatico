@@ -1,0 +1,114 @@
+   #MainTitle {
+    color: rgb(167, 28, 102);
+    font-size: 36pt;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(165, 0, 102);
+    padding: 100px 100px 100px 100px;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    border-radius: 8pt;
+  }
+  
+  .Paragraph {
+    text-indent: 4%;
+    font-size: 0.45cm;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    text-align: justify;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    margin-top: 1.5cm;
+  }
+  #background{
+    background-color: rgb(255, 239, 251);
+    text-indent: 0%;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    text-align: left;
+    margin-left: 2pt;
+  }
+  #ImportantTitles{
+    color: rgb(8, 4, 8);
+    font-size: 16pt;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    
+  }
+  .table{
+    background:url("foto.png") no-repeat; 
+    background-size: 90%;
+    background-position: 50%;
+    opacity: 0.9;
+    -ms-flex-item-align: center;
+  }
+  .box{
+    background-color: rgb(236, 236, 48);
+    text-indent: 4%;
+    margin-left: 6cm;
+    margin-right: 6cm;
+    border-color: black;
+    border-radius: 4px;
+  }
+  .textPhoto{
+    font-size: 12;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7cm;
+    margin-right: 6.3cm;
+  }
+  .nameStyle{
+    font-size: 0.5cm;
+    font-family: inherit;
+    color: rgb(145, 20, 145);
+  }
+  .box1{
+    background-color: rgb(233, 180, 189);
+    border-color: rgb(255, 3, 3);
+    font-size: 12;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 4%;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    border-radius: 8px;
+  }
+  .quote{
+    background-color: rgb(184, 217, 247);
+    border-radius: 5px;
+    font-size: 12;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 4cm;
+    margin-right: 4cm;
+  }
+  h1{
+    background-color: rgb(252, 232, 252);
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 2.7cm;
+    margin-right: 2.7cm;
+    margin-top: 2cm;
+    border-radius: 8px;
+  }
+  h2{
+    margin-top: 2cm;
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 2.7cm;
+  }
+  h3{
+    font-size: 1;
+    font-family: sans-serif;
+    color: rgb(212, 86, 206);
+    margin-left: 26cm;
+  }
+  h4{
+    text-align: center;
+    background-color: rgb(255, 224, 248);
+    color: rgb(165, 23, 111);
+    margin-top: 2cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7cm;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    border-radius: 8px;
+  }
